@@ -9,7 +9,6 @@ node_modules
 
 .idea/*
 venv
-.vscode
 
 test/*
 tmp/*
@@ -30,3 +29,4 @@ ssl-certs/*.pem
 ssl-certs/*.csr
 0
 app/test/.nyc_output/
+config.bat
